@@ -1,0 +1,59 @@
+{
+  "idToTestNameHash": {
+    "MoTe1": "Modify Tests getObjectKeys - only gets enumerable keys, and does NOT use hasOwnProperty",
+    "MoTe2": "Modify Tests getObjectKeys - does it in one line with an implicit return",
+    "FrScTe1": "From Scratch Tests makeCounter - returns a function that increments by 1, starting from the given number",
+    "FrScTe2": "From Scratch Tests makeCounter - incrementor function starts from 1 if no argument provided",
+    "FrScTe3": "From Scratch Tests Circle - constructor function adds only instance properties to each instance, not methods",
+    "FrScTe4": "From Scratch Tests Circle.getArea - correctly returns the area of the circle",
+    "FrScTe5": "From Scratch Tests Circle.getCircumference - correctly returns the circumference of the circle",
+    "FrScTe6": "From Scratch Tests Circle.draw - returns the right message with color of the circle",
+    "FrScTe7": "From Scratch Tests Circle.changeColor - changes the color of the circle",
+    "FrScTe8": "From Scratch Tests Circle - adds methods to the prototype",
+    "FrScTe9": "From Scratch Tests Teacher - constructor function adds only instance properties to each instance",
+    "FrScTe10": "From Scratch Tests Teacher.addStudent - adds a student to the teacher's students array",
+    "FrScTe11": "From Scratch Tests Teacher.changeSchools - changes the school of the teacher",
+    "FrScTe12": "From Scratch Tests Teacher - adds methods to the prototype"
+  },
+  "testNameToIdHash": {
+    "Modify Tests getObjectKeys - only gets enumerable keys, and does NOT use hasOwnProperty": "MoTe1",
+    "Modify Tests getObjectKeys - does it in one line with an implicit return": "MoTe2",
+    "From Scratch Tests makeCounter - returns a function that increments by 1, starting from the given number": "FrScTe1",
+    "From Scratch Tests makeCounter - incrementor function starts from 1 if no argument provided": "FrScTe2",
+    "From Scratch Tests Circle - constructor function adds only instance properties to each instance, not methods": "FrScTe3",
+    "From Scratch Tests Circle.getArea - correctly returns the area of the circle": "FrScTe4",
+    "From Scratch Tests Circle.getCircumference - correctly returns the circumference of the circle": "FrScTe5",
+    "From Scratch Tests Circle.draw - returns the right message with color of the circle": "FrScTe6",
+    "From Scratch Tests Circle.changeColor - changes the color of the circle": "FrScTe7",
+    "From Scratch Tests Circle - adds methods to the prototype": "FrScTe8",
+    "From Scratch Tests Teacher - constructor function adds only instance properties to each instance": "FrScTe9",
+    "From Scratch Tests Teacher.addStudent - adds a student to the teacher's students array": "FrScTe10",
+    "From Scratch Tests Teacher.changeSchools - changes the school of the teacher": "FrScTe11",
+    "From Scratch Tests Teacher - adds methods to the prototype": "FrScTe12"
+  },
+  "testScores": {
+    "Modify Tests": {
+      "MoTe1": 0,
+      "MoTe2": 0
+    },
+    "From Scratch Tests": {
+      "FrScTe1": 0,
+      "FrScTe2": 0,
+      "FrScTe3": 0,
+      "FrScTe4": 0,
+      "FrScTe5": 0,
+      "FrScTe6": 0,
+      "FrScTe7": 0,
+      "FrScTe8": 0,
+      "FrScTe9": 0,
+      "FrScTe10": 0,
+      "FrScTe11": 0,
+      "FrScTe12": 0
+    }
+  },
+  "humanReadable": {
+    "Modify Tests": "0/2",
+    "finalTestScore": "FINAL SCORE: 0/14",
+    "From Scratch Tests": "0/12"
+  }
+}
